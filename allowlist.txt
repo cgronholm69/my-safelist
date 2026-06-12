@@ -42,7 +42,6 @@ outlook.com
 gmail.com
 
 # --- Maps & Transport ---
-maps.google.com
 hsl.fi
 vr.fi
 finavia.fi
