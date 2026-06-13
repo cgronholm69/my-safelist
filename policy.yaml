@@ -33,21 +33,21 @@
 # --- SIMPLE SCHEDULE (use this OR the advanced example below, not both) ---
 
 # REMOVE THE # FROM THE LINE BELOW
-schedules:
+# schedules:
 
 # REMOVE THE # FROM THE LINE BELOW
-   - name: opening_hours
+  # - name: opening_hours
 # REMOVE THE # FROM THE LINE BELOW — edit days to match yours
-     days: [mon, tue, wed, thu, fri]
+    # days: [mon, tue, wed, thu, fri]
 # REMOVE THE # FROM THE LINE BELOW — edit time to match yours
-     time: "09:00-17:00"
+    # time: "09:00-17:00"
 # REMOVE THE # FROM THE LINE BELOW
-     allowlist: allowlist.txt
+    # allowlist: allowlist.txt
 
 # REMOVE THE # FROM THE LINE BELOW
-   - name: default
+  # - name: default
 # REMOVE THE # FROM THE LINE BELOW
-     allowlist: none
+    # allowlist: none
 
 
 # --- ADVANCED EXAMPLE (a library with staffed hours, self-service, and closed nights) ---
