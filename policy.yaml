@@ -38,7 +38,7 @@
 # REMOVE THE # FROM THE LINE BELOW
    - name: opening_hours
 # REMOVE THE # FROM THE LINE BELOW — edit days to match yours
-     days: [mon, tue, wed, thu, fri, sun]
+     days: [mon, tue, wed, thu, fri]
 # REMOVE THE # FROM THE LINE BELOW — edit time to match yours
      time: "08:00-17:00"
 # REMOVE THE # FROM THE LINE BELOW
