@@ -38,9 +38,9 @@
 # REMOVE THE # FROM THE LINE BELOW
    - name: opening_hours
 # REMOVE THE # FROM THE LINE BELOW — edit days to match yours
-     days: [mon, tue, wed, thu, fri]
+     days: [mon, tue, wed, thu, fri, sun]
 # REMOVE THE # FROM THE LINE BELOW — edit time to match yours
-     time: "09:00-17:00"
+     time: "08:00-17:00"
 # REMOVE THE # FROM THE LINE BELOW
      allowlist: allowlist.txt
 
