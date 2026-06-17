@@ -71,6 +71,7 @@ fastmail.com
 fastmailusercontent.com
 finnpanel.fi
 formspree.io
+iltalehti.fi
 gigantti.fi
 github.githubassets.com
 globo.com
